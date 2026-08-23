@@ -2,7 +2,7 @@
 
 ## Framework
 
-This repository is a Ducker-maintained, self-contained agentic-docs template derived from `Sukitly/agentic-docs-templates`. Its current entry points are `README.md`, `AGENTS.md`, `bootstrap.md`, `ARCHITECTURE.md`, and `scripts/check-docs.py`.
+This repository is a Ducker-maintained, self-contained agentic-docs template derived from `Sukitly/agentic-docs-templates`. Current entry points are `README.md`, `AGENTS.md`, `bootstrap.md`, `ARCHITECTURE.md`, `scripts/check-docs.py`, and the `docs/` knowledge hierarchy.
 
 ## Authority
 
@@ -10,8 +10,8 @@ Projects using this fork follow: **code/executable evidence → `docs/STATE.md` 
 
 ## Distribution
 
-The framework is distributed directly from `bentbuds/ducker-document-hierarchies-for-building-books-and-apps-`; `bootstrap.md` points to this repository rather than requiring the upstream repository.
+The framework is distributed directly from `bentbuds/ducker-document-hierarchies-for-building-books-and-apps-`; `README.md` and `bootstrap.md` point to this repository rather than requiring the upstream repository.
 
 ## Verification
 
-Repository structure and file presence are verified in GitHub as files are added. Documentation integrity is checked with `python3 scripts/check-docs.py` once the full framework is present.
+GitHub recursive-tree inspection confirms the core framework, Pi helper prompts, templates, indexes, archive boundary, product specs, exec-plan directories, and integrity-check script are present on `main`. `scripts/check-docs.py` has not been executed in this chat environment, so its runtime result is not yet claimed.
